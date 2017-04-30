@@ -1,0 +1,27 @@
+{
+  "name": "allex_notanallexerrorerrorlowlevellib",
+  "version": "1.0.0",
+  "description": "Error that denotes the case when an error is not an AllexError",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex-lowlevel-libs/notanallexerrorerror.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "notanallexerror",
+    "error",
+    "low",
+    "level",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-lowlevel-libs/notanallexerrorerror/issues"
+  },
+  "homepage": "https://github.com/allex-lowlevel-libs/notanallexerrorerror#readme"
+}
